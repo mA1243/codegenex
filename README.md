@@ -75,7 +75,7 @@ def is_even(n):
 
 Then run the script:
 ```
-python explain.py
+python main.py
 ```
 
 ## License
